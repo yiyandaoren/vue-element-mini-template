@@ -1,4 +1,4 @@
-# vue-element-router-template
+# vue-element-mini-template
 
 > 简单的带路由的和axios的单页面开始模板
 
